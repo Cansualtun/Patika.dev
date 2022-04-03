@@ -1,0 +1,22 @@
+h1 {
+    color:yellow;
+}
+
+article {
+    color:yellow;
+}
+
+body 
+{ 
+    background-image: url("image/arkaplan.jpg");
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    background-repeat:repeat-y ;
+    background-repeat: repeat-x;
+    font-family: 'Alumni Sans Inline One', cursive; 
+    font-size: 30px;
+
+    } 
+    
+   
