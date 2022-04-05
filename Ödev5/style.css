@@ -1,0 +1,117 @@
+.first-container 
+{
+     margin-left: 550px;
+     margin-top: 150px;
+     height: 120px;
+     width: 200px;
+}
+.second-container
+{
+    height :200px;
+    width: 1480px ;
+    background-color: #DFDFDE ; 
+    margin-right: 20px;
+
+}
+.icon {
+        background-color:white;
+        border: none;
+        padding: 0;
+        color: rgba(0,0,0,.87);
+        word-wrap: break-word;
+        outline: none;
+        display: flex;
+        flex: 100%;
+        -webkit-tap-highlight-color: transparent;
+        height: 34px;
+        width: 300px;
+        font-size: 16px;
+        margin-left: 600px;
+        margin-top: 20px;
+
+}
+    .button1 {
+            background-color:#DFDFDE; 
+            border-radius: 4px;
+            color: #3c4043;
+            font-family: Roboto,arial,sans-serif;
+            font-size: 14px;
+            margin: 12px 4px;
+            padding: 0 16px;
+            line-height: 20px;
+            height: 36px;
+            min-width: 54px;
+            text-align: center;
+            cursor: pointer;
+            user-select: none;
+            margin-right: 100px;
+}
+    .button2 {
+        color: #3c4043;
+        font-family: Roboto,arial,sans-serif;
+        font-size: 14px;
+        margin: 11px 4px;
+        padding: 0 16px;
+        line-height: 27px;
+        height: 36px;
+        min-width: 54px;
+        text-align: center;
+        cursor: pointer;
+        margin-left:200px;
+        margin-top: -50px;
+        
+    }
+.Third-Container {
+    width: 600px;
+    height: 100px;
+    background-color:#C1F8CF; 
+    float: left;
+}
+.Fourth-Container {
+    width: 300px;
+    height: 100px;
+    background-color:#4FD3C4; 
+    float: right;
+    margin-bottom: 200px;
+    margin-right: 600px;
+}
+.Fiveth-Container {
+    width: 576px;
+    height: 100px;
+    background-color:#7FC8A9; 
+    float: right ; 
+    margin-left: 600px;
+    margin-right: 20px;
+    margin-top: -300px;
+}
+.Çubuk {
+    background-color: #ffffff;
+    border: none;
+    box-shadow: 0 1px 1px 0 rgb(48 48 48 / 30%), 0 1px 1px 1px rgb(48 48 48 / 15%);
+    box-sizing: border-box;
+    color: #1f1f1f;
+    display: block;
+    font-size: 1rem;
+    height: 1rem;
+    padding: 0 2.5rem 0 4.5rem;
+    width: 80%;
+    -webkit-appearance: none;
+}
+.search-btn {
+    background: #ffab06;
+    border-bottom: #ffab06 2px outset;
+    border-left: #ffab06 2px outset;
+    border-right: #ffab06 2px outset;
+    border-top: #ffab06 2px outset;
+    color: white;
+    font-weight: bold;
+    margin-right: 150px;
+
+}
+
+
+
+
+
+   
+    
